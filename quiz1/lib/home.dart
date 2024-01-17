@@ -15,7 +15,7 @@ class Home extends StatelessWidget {
         child: Center(
           child: Column(children: [
             Image.asset(
-              'assets/images/splash.png',
+              'assets/images/ideas.png',
               height: 120,
               width: 120,
             ),
